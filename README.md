@@ -1,2 +1,2 @@
-# HELLO DEAR FRIENDS WLCOME TO GITHUB
-<h6>this is my readme</h1>
+# HELLO DEAR FRIENDS WELCOME TO GITHUB
+<h1>this is my readme</h1>
